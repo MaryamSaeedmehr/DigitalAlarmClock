@@ -32,6 +32,8 @@ After you have built it ,`Digital_Alarm_clock.hex` file will be created in your 
 Use proteus to emulate your circuit. Try to make it as I have done....
 
 
+![EXC3_Q3](https://user-images.githubusercontent.com/49061503/71773411-e5b6e500-2f71-11ea-8cec-52fad89808ec.png)
+
 
 
 ## Step4 : Program Atmega32
